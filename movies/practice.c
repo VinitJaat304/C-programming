@@ -11525,6 +11525,2669 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");
+									}
+							break;
+							default:
+							printf("Invalid Number.");	
+						}
+						break ;
+						case 2:
+						printf("\nPress 1 for 'Mutiny 10 $ Seat'.\n");
+						printf("Press 2 for 'Mutiny 20 $ Seat'.\n");
+						printf("Press 3 for 'Mutiny 30 $ Seat'.\n");
+						printf("Enter your choice :");
+						scanf("%d",&d);
+						switch(d){
+							case 1:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+							switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine \n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall   \n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							case 2:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+							switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater:VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							case 3:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+							switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							default:
+							printf("Invalid Number.");	
+						}
+						break ;
+						default:
+						printf("Invalid Number.");
+						}
+				break;
+				default:
+				printf("Invalid Number.");
+				}
+			
+	break;
+		case 2:
+			printf("\nPress 1 for Drama.\n");
+			printf("Press 2 for Comedy.\n");
+			printf("Press 3 for Horror.\n");
+			printf("Press 4 for Sci-fi.\n");
+			printf("Press 5 for Action.\n");
+			printf("Enter your choice :");
+			scanf("%d",&b);
+			switch(b){
+				case 1:
+					printf("\nPress 1 for'Once upon time in hollywood'.\n");
+					printf("Press 2 for 'F1'.\n");
+					printf("Enter your choice :");
+					scanf("%d",&c);
+					switch(c){
+						case 1:
+						printf("\nPress 1 for 'Once upon time in hollywood 10 $ Seat'.\n");
+						printf("Press 2 for 'Once upon time in hollywood 20 $ Seat'.\n");
+						printf("Press 3 for 'Once upon time in hollywood 30 $ Seat'.\n");
+						printf("Enter your choice :");
+						scanf("%d",&d);
+						switch(d){
+							case 1:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+								switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+										printf("Invalid Number.");
+									}
+							break;
+							case 2:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 2 for'3 Seats'.\n");
+							printf("Press 2 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+								switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+												
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+													switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+												
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater :Valentine \n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine \n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							case 3:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+								switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
 														printf("Movie : Once upon a time in Hollywood.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 1\n");
@@ -13264,6 +15927,10602 @@ main()
 						printf("Invalid Number.");
 						}
 				break;
+				case 2:
+					printf("\nPress 1 for'Almighty Bruce'.\n");
+					printf("Press 2 for'Step Brothers'.\n");
+					printf("Enter your choice :");
+					scanf("%d",&c);
+					switch(c){
+						case 1:
+						printf("\nPress 1 for 'Almighty Bruce 10 $ Seat'.\n");
+						printf("Press 2 for 'Almighty Bruce 20 $ Seat'.\n");
+						printf("Press 3 for 'Almighty Bruce 30 $ Seat'.\n");
+						printf("Enter your choice :");
+						scanf("%d",&d);
+						switch(d){
+							case 1:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+								switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+										printf("Invalid Number.");
+									}
+							break;
+							case 2:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 2 for'3 Seats'.\n");
+							printf("Press 2 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+								switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+												
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+													switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+												
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :Valentine \n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine \n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							case 3:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+								switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Almighty Bruce.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");
+									}
+							break;
+							default:
+							printf("Invalid Number.");	
+						}
+						break ;
+						case 2:
+						printf("\nPress 1 for 'Step Brothers 10 $ Seat'.\n");
+						printf("Press 2 for 'Step Brothers 20 $ Seat'.\n");
+						printf("Press 3 for 'Step Brothers 30 $ Seat'.\n");
+						printf("Enter your choice :");
+						scanf("%d",&d);
+						switch(d){
+							case 1:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+							switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :Valentine \n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall   \n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							case 2:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+							switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater:VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							case 3:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+							switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Step Brothers.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Step Brothers.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							default:
+							printf("Invalid Number.");	
+						}
+						break ;
+						default:
+						printf("Invalid Number.");
+						}
+				break;
+				case 3:
+					printf("\nPress 1 for'The Mummy'.\n");
+					printf("Press 2 for 'Exorcist'.\n");
+					printf("Enter your choice :");
+					scanf("%d",&c);
+					switch(c){
+						case 1:
+						printf("\nPress 1 for 'The Mummy 10 $ Seat'.\n");
+						printf("Press 2 for 'The Mummy 20 $ Seat'.\n");
+						printf("Press 3 for 'The Mummy 30 $ Seat'.\n");
+						printf("Enter your choice :");
+						scanf("%d",&d);
+						switch(d){
+							case 1:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+								switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+										printf("Invalid Number.");
+									}
+							break;
+							case 2:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 2 for'3 Seats'.\n");
+							printf("Press 2 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+								switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+												
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+													switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+												
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :Valentine \n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine \n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							case 3:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+								switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Mummy.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");
+									}
+							break;
+							default:
+							printf("Invalid Number.");	
+						}
+						break ;
+						case 2:
+						printf("\nPress 1 for 'Exorcist 10 $ Seat'.\n");
+						printf("Press 2 for 'Exorcist 20 $ Seat'.\n");
+						printf("Press 3 for 'Exorcist 30 $ Seat'.\n");
+						printf("Enter your choice :");
+						scanf("%d",&d);
+						switch(d){
+							case 1:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+							switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :Valentine \n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall   \n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							case 2:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+							switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater:VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							case 3:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+							switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Exorcist.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Exorcist.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							default:
+							printf("Invalid Number.");	
+						}
+						break ;
+						default:
+						printf("Invalid Number.");
+						}
+				break;
+				case 4:
+					printf("\nPress 1 for'The Adam Project '.\n");
+					printf("Press 2 for 'Blade Runner 2049'.\n");
+					printf("Enter your choice :");
+					scanf("%d",&c);
+						switch(c){
+						case 1:
+						printf("\nPress 1 for 'The Adam Project 10 $ Seat'.\n");
+						printf("Press 2 for 'The Adam Project 20 $ Seat'.\n");
+						printf("Press 3 for 'The Adam Project 30 $ Seat'.\n");
+						printf("Enter your choice :");
+						scanf("%d",&d);
+						switch(d){
+							case 1:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+								switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+										printf("Invalid Number.");
+									}
+							break;
+							case 2:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 2 for'3 Seats'.\n");
+							printf("Press 2 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+								switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+												
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+													switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+												
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :Valentine \n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine \n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							case 3:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+								switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :The Adam Project.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");
+									}
+							break;
+							default:
+							printf("Invalid Number.");	
+						}
+						break ;
+						case 2:
+						printf("\nPress 1 for 'Blade Runner 2049 10 $ Seat'.\n");
+						printf("Press 2 for 'Blade Runner 2049 20 $ Seat'.\n");
+						printf("Press 3 for 'Blade Runner 2049 30 $ Seat'.\n");
+						printf("Enter your choice :");
+						scanf("%d",&d);
+						switch(d){
+							case 1:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+							switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :Valentine \n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall   \n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							case 2:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+							switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater:VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							case 3:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+							switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Blade Runner 2049.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Blade Runner 2049.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							default:
+							printf("Invalid Number.");	
+						}
+						break ;
+						default:
+						printf("Invalid Number.");
+						}
+				break;
+				case 5:
+					printf("\nPress 1 for'John Wick'.\n");
+					printf("Press 2 for 'Mutiny'.\n");
+					printf("Enter your choice :");
+					scanf("%d",&c);
+					switch(c){
+						case 1:
+						printf("\nPress 1 for 'John Wick 10 $ Seat'.\n");
+						printf("Press 2 for 'John Wick 20 $ Seat'.\n");
+						printf("Press 3 for 'John Wick 30 $ Seat'.\n");
+						printf("Enter your choice :");
+						scanf("%d",&d);
+						switch(d){
+							case 1:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+								switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+										printf("Invalid Number.");
+									}
+							break;
+							case 2:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 2 for'3 Seats'.\n");
+							printf("Press 2 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+								switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+												
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+													switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR Mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+												
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine \n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine \n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							case 3:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+								switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : John Wick.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");
+									}
+							break;
+							default:
+							printf("Invalid Number.");	
+						}
+						break ;
+						case 2:
+						printf("\nPress 1 for 'Mutiny 10 $ Seat'.\n");
+						printf("Press 2 for 'Mutiny 20 $ Seat'.\n");
+						printf("Press 3 for 'Mutiny 30 $ Seat'.\n");
+						printf("Enter your choice :");
+						scanf("%d",&d);
+						switch(d){
+							case 1:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+							switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine \n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 10$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall   \n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							case 2:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+							switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater:VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 20$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 40$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 80$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							case 3:
+							printf("\nPress 1 for'1 Seat'.\n");
+							printf("Press 2 for'2 Seats'.\n");
+							printf("Press 3 for'3 Seats'.\n");
+							printf("Press 4 for'4 Seats'.\n");
+							printf("Enter your choice :");
+							scanf("%d",&e);
+							switch(e){
+									case 1:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 1\n");
+														printf("Price : 30$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 2:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 2\n");
+														printf("Price : 60$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 3:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 3\n");
+														printf("Price : 90$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									case 4:
+										printf("\nPress 1 for'VR mall Theater'.\n");
+										printf("Press 2 for'Valentine Theater'.\n");
+										printf("Enter your choice :");
+										scanf("%d",&f);
+										switch(f){
+											case 1:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :VR mall\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											case 2:
+												printf("\nPress 1 for Popcorn only.\n");
+												printf("Press 2 for Coke only.\n");
+												printf("Press 3 for Both Popcorn and Coke.\n");   
+												printf("Press 4 for Nothing.\n");
+												printf("Enter your choice :");
+												scanf("%d",&g);
+												switch(g){
+													case 1:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn only");
+														printf("\n-----------------------------------------");
+													break;
+													case 2:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Coke only");
+														printf("\n-----------------------------------------");
+													break;
+													case 3:
+														printf("\n-----------------------------------------\n");
+														printf("Movie : Mutiny.\n");
+														printf("Theater : Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Popcorn And Coke");
+														printf("\n-----------------------------------------");
+													break;
+													case 4:
+														printf("\n-----------------------------------------\n");
+														printf("Movie :Mutiny.\n");
+														printf("Theater :Valentine\n");
+														printf("Total Seats : 4\n");
+														printf("Price : 120$\n");
+														printf("Snacks : Nothing");
+														printf("\n-----------------------------------------");
+													break;
+													default:
+														printf("Invalid Number.");
+												}
+											break;
+											default:
+												printf("Invalid Number.");	
+										}
+									break;
+									default:
+									printf("Invalid Number.");	
+									}
+							break;
+							default:
+							printf("Invalid Number.");	
+						}
+						break ;
+						default:
+						printf("Invalid Number.");
+						}
+				break;
 				default:
 				printf("Invalid Number.");
 				}
@@ -13273,4 +26532,3 @@ main()
 		printf("Invalid Number.");	
 	}
 }
-
