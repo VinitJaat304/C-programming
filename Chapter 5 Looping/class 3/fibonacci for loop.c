@@ -9,7 +9,7 @@ main()
 	
 	printf("%d\t%d\t",a,b);
 	
-	for(i = 3; i <= num; i++)
+	for(i = 3 ; i <= num; i++)
 	{
 		c = a + b;
 		
