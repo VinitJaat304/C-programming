@@ -13279,15 +13279,15 @@ main()
 			scanf("%d",&b);
 			switch(b){
 				case 1:
-					printf("\nPress 1 for'Once upon time in hollywood'.\n");
-					printf("Press 2 for 'F1'.\n");
+					printf("\nPress 1 for'Swades'.\n");
+					printf("Press 2 for 'Devdas'.\n");
 					printf("Enter your choice :");
 					scanf("%d",&c);
 					switch(c){
 						case 1:
-						printf("\nPress 1 for 'Once upon time in hollywood 10 $ Seat'.\n");
-						printf("Press 2 for 'Once upon time in hollywood 20 $ Seat'.\n");
-						printf("Press 3 for 'Once upon time in hollywood 30 $ Seat'.\n");
+						printf("\nPress 1 for 'Swades 10 $ Seat'.\n");
+						printf("Press 2 for 'Swades 20 $ Seat'.\n");
+						printf("Press 3 for 'Swades 30 $ Seat'.\n");
 						printf("Enter your choice :");
 						scanf("%d",&d);
 						switch(d){
@@ -13315,7 +13315,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 10$\n");
@@ -13324,7 +13324,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 10$\n");
@@ -13333,7 +13333,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 10$\n");
@@ -13342,7 +13342,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 10$\n");
@@ -13363,7 +13363,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 10$\n");
@@ -13372,7 +13372,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 10$\n");
@@ -13381,7 +13381,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 10$\n");
@@ -13390,7 +13390,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 10$\n");
@@ -13421,7 +13421,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 20$\n");
@@ -13430,7 +13430,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 20$\n");
@@ -13439,7 +13439,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 20$\n");
@@ -13448,7 +13448,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 20$\n");
@@ -13469,7 +13469,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine Mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 20$\n");
@@ -13478,7 +13478,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine Mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 20$\n");
@@ -13487,7 +13487,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine Mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 20$\n");
@@ -13496,7 +13496,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine Mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 20$\n");
@@ -13527,7 +13527,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 30$\n");
@@ -13536,7 +13536,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 30$\n");
@@ -13545,7 +13545,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 30$\n");
@@ -13554,7 +13554,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 30$\n");
@@ -13575,7 +13575,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 30$\n");
@@ -13584,7 +13584,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 30$\n");
@@ -13593,7 +13593,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 30$\n");
@@ -13602,7 +13602,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 30$\n");
@@ -13633,7 +13633,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 40$\n");
@@ -13642,7 +13642,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie :Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 40$\n");
@@ -13651,7 +13651,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 40$\n");
@@ -13660,7 +13660,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 40$\n");
@@ -13681,7 +13681,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 40$\n");
@@ -13690,7 +13690,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 40$\n");
@@ -13699,7 +13699,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 40$\n");
@@ -13708,7 +13708,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 40$\n");
@@ -13751,7 +13751,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 20$\n");
@@ -13760,7 +13760,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 20$\n");
@@ -13769,7 +13769,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 20$\n");
@@ -13778,7 +13778,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 20$\n");
@@ -13800,7 +13800,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 20$\n");
@@ -13809,7 +13809,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 20$\n");
@@ -13818,7 +13818,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 20$\n");
@@ -13827,7 +13827,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie :Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 20$\n");
@@ -13858,7 +13858,7 @@ main()
 													switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 40$\n");
@@ -13867,7 +13867,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 40$\n");
@@ -13876,7 +13876,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 40$\n");
@@ -13885,7 +13885,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR Mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 40$\n");
@@ -13907,7 +13907,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 40$\n");
@@ -13916,7 +13916,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 40$\n");
@@ -13925,7 +13925,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 40$\n");
@@ -13934,7 +13934,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 40$\n");
@@ -13965,7 +13965,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 60$\n");
@@ -13974,7 +13974,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 60$\n");
@@ -13983,7 +13983,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 60$\n");
@@ -13992,7 +13992,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 60$\n");
@@ -14012,7 +14012,7 @@ main()
 												scanf("%d",&g);switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 60$\n");
@@ -14021,7 +14021,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :Valentine \n");
 														printf("Total Seats : 3\n");
 														printf("Price : 60$\n");
@@ -14030,7 +14030,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine \n");
 														printf("Total Seats : 3\n");
 														printf("Price : 60$\n");
@@ -14039,7 +14039,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 60$\n");
@@ -14070,7 +14070,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 80$\n");
@@ -14079,7 +14079,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 80$\n");
@@ -14088,7 +14088,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 80$\n");
@@ -14097,7 +14097,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 80$\n");
@@ -14118,7 +14118,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 80$\n");
@@ -14127,7 +14127,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 80$\n");
@@ -14136,7 +14136,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 80$\n");
@@ -14145,7 +14145,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 80$\n");
@@ -14188,7 +14188,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 30$\n");
@@ -14197,7 +14197,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 30$\n");
@@ -14206,7 +14206,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 30$\n");
@@ -14215,7 +14215,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 30$\n");
@@ -14236,7 +14236,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 30$\n");
@@ -14245,7 +14245,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 30$\n");
@@ -14254,7 +14254,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 30$\n");
@@ -14263,7 +14263,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 30$\n");
@@ -14294,7 +14294,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 60$\n");
@@ -14303,7 +14303,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 60$\n");
@@ -14312,7 +14312,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 60$\n");
@@ -14321,7 +14321,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 60$\n");
@@ -14342,7 +14342,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 60$\n");
@@ -14351,7 +14351,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 60$\n");
@@ -14360,7 +14360,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 60$\n");
@@ -14369,7 +14369,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 60$\n");
@@ -14400,7 +14400,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 90$\n");
@@ -14409,7 +14409,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 90$\n");
@@ -14418,7 +14418,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 90$\n");
@@ -14427,7 +14427,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 90$\n");
@@ -14448,7 +14448,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 90$\n");
@@ -14457,7 +14457,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 90$\n");
@@ -14466,7 +14466,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 90$\n");
@@ -14475,7 +14475,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 90$\n");
@@ -14506,7 +14506,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 120$\n");
@@ -14515,7 +14515,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 120$\n");
@@ -14524,7 +14524,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 120$\n");
@@ -14533,7 +14533,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 120$\n");
@@ -14554,7 +14554,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 120$\n");
@@ -14563,7 +14563,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 120$\n");
@@ -14572,7 +14572,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 120$\n");
@@ -14581,7 +14581,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : Once upon a time in Hollywood.\n");
+														printf("Movie : Swades.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 120$\n");
@@ -14605,9 +14605,9 @@ main()
 						}
 						break ;
 						case 2:
-						printf("\nPress 1 for 'F1 10 $ Seat'.\n");
-						printf("Press 2 for 'F1 20 $ Seat'.\n");
-						printf("Press 3 for 'F1 30 $ Seat'.\n");
+						printf("\nPress 1 for 'Devdas 10 $ Seat'.\n");
+						printf("Press 2 for 'Devdas 20 $ Seat'.\n");
+						printf("Press 3 for 'Devdas 30 $ Seat'.\n");
 						printf("Enter your choice :");
 						scanf("%d",&d);
 						switch(d){
@@ -14635,7 +14635,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 10$\n");
@@ -14644,7 +14644,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 10$\n");
@@ -14653,7 +14653,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 10$\n");
@@ -14662,7 +14662,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 10$\n");
@@ -14683,7 +14683,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 10$\n");
@@ -14692,7 +14692,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :Valentine \n");
 														printf("Total Seats : 1\n");
 														printf("Price : 10$\n");
@@ -14701,7 +14701,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 10$\n");
@@ -14710,7 +14710,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 10$\n");
@@ -14741,7 +14741,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 20$\n");
@@ -14750,7 +14750,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 20$\n");
@@ -14759,7 +14759,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 20$\n");
@@ -14768,7 +14768,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 20$\n");
@@ -14789,7 +14789,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 20$\n");
@@ -14798,7 +14798,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater Valentine\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 20$\n");
@@ -14807,7 +14807,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 20$\n");
@@ -14816,7 +14816,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 20$\n");
@@ -14847,7 +14847,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 30$\n");
@@ -14856,7 +14856,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater VR mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 30$\n");
@@ -14865,7 +14865,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 30$\n");
@@ -14874,7 +14874,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 30$\n");
@@ -14895,7 +14895,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 30$\n");
@@ -14904,7 +14904,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 30$\n");
@@ -14913,7 +14913,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 30$\n");
@@ -14922,7 +14922,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 30$\n");
@@ -14953,7 +14953,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 40$\n");
@@ -14962,7 +14962,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater VR mall\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 40$\n");
@@ -14971,7 +14971,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 40$\n");
@@ -14980,7 +14980,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall   \n");
 														printf("Total Seats : 4\n");
 														printf("Price : 40$\n");
@@ -15001,7 +15001,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 40$\n");
@@ -15010,7 +15010,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater Valentine\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 40$\n");
@@ -15019,7 +15019,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 40$\n");
@@ -15028,7 +15028,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 40$\n");
@@ -15071,7 +15071,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 20$\n");
@@ -15080,7 +15080,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater:VR mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 20$\n");
@@ -15089,7 +15089,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 20$\n");
@@ -15098,7 +15098,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 20$\n");
@@ -15119,7 +15119,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 20$\n");
@@ -15128,7 +15128,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 20$\n");
@@ -15137,7 +15137,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 20$\n");
@@ -15146,7 +15146,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 1\n");
 														printf("Price : 20$\n");
@@ -15177,7 +15177,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 40$\n");
@@ -15186,7 +15186,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 40$\n");
@@ -15195,7 +15195,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 40$\n");
@@ -15204,7 +15204,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 40$\n");
@@ -15225,7 +15225,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 40$\n");
@@ -15234,7 +15234,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 40$\n");
@@ -15243,7 +15243,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 40$\n");
@@ -15252,7 +15252,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 2\n");
 														printf("Price : 40$\n");
@@ -15283,7 +15283,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 60$\n");
@@ -15292,7 +15292,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 60$\n");
@@ -15301,7 +15301,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater : VR mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 60$\n");
@@ -15310,7 +15310,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :VR mall\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 60$\n");
@@ -15331,7 +15331,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 60$\n");
@@ -15340,7 +15340,7 @@ main()
 													break;
 													case 2:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 60$\n");
@@ -15349,7 +15349,7 @@ main()
 													break;
 													case 3:
 														printf("\n-----------------------------------------\n");
-														printf("Movie : F1.\n");
+														printf("Movie : Devdas.\n");
 														printf("Theater : Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 60$\n");
@@ -15358,7 +15358,7 @@ main()
 													break;
 													case 4:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie :Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 3\n");
 														printf("Price : 60$\n");
@@ -15389,7 +15389,7 @@ main()
 												switch(g){
 													case 1:
 														printf("\n-----------------------------------------\n");
-														printf("Movie :F1.\n");
+														printf("Movie :Devdas.\n");
 														printf("Theater :Valentine\n");
 														printf("Total Seats : 4\n");
 														printf("Price : 80$\n");
