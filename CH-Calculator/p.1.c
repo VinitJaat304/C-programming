@@ -25,7 +25,7 @@ int modulo(int a, int b)
     return a % b;
 }
 
-int main()
+void main()
 {
     int n, num1, num2;
     for (;;)
